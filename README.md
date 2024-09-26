@@ -1,2 +1,5 @@
 # simple-Nodejs-project
-its a sample nodejs project
+
+it's a sample nodejs project. <br>
+connnected to mongoDb.
+
